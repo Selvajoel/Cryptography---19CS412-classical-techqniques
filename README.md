@@ -70,6 +70,11 @@ The program is executed successfully
 ---------------------------------
 
 
+
+
+
+
+
 # PlayFair Cipher
 Playfair Cipher using with different key values
 
@@ -245,6 +250,10 @@ return 0;
 
 ## RESULT:
 The program is executed successfully
+
+
+
+
 
 
 ---------------------------
