@@ -246,7 +246,7 @@ return 0;
 }
 ```
 ## OUTPUT:
-![image](https://github.com/22008421/Cryptography---19CS412-classical-techqniques/assets/119476328/d5008d47-8cbe-4f9d-b4cd-7fee2ec1ca32)
+![image](https://github.com/Selvajoel/Cryptography---19CS412-classical-techqniques/assets/122252838/fe68948f-f1d1-4b2c-8a52-b56341173030)
 
 ## RESULT:
 The program is executed successfully
