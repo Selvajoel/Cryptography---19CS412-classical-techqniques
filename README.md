@@ -556,7 +556,8 @@ printf("\n");
 }
 ```
 ## OUTPUT:
-![image](https://github.com/22008421/Cryptography---19CS412-classical-techqniques/assets/119476328/39417e01-9dd5-4b24-916e-1b48a5067ef1)
+![image](https://github.com/Selvajoel/Cryptography---19CS412-classical-techqniques/assets/122252838/a4ec6113-1414-4e80-b00d-378a67880696)
+
 
 ## RESULT:
 The program is executed successfully
