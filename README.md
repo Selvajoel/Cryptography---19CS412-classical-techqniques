@@ -62,9 +62,9 @@ int main() {
 }
 ```
 ## OUTPUT:
-![image](https://github.com/22008421/Cryptography---19CS412-classical-techqniques/assets/119476328/50986280-5169-4cfa-aab9-2a0b18c6e158)
+![image](https://github.com/Selvajoel/Cryptography---19CS412-classical-techqniques/assets/122252838/5017e441-8951-476e-8c85-3e62a22608ad)
 
-## RESULT:
+RESULT:
 The program is executed successfully
 
 ---------------------------------
